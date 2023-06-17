@@ -1,0 +1,10 @@
+/* light red/pink background, and a list of fonts containing `Verdana` and `DejaVu Sans` with `sans-serif` as a fallback */
+
+p {
+   background-color: #ffbef9; 
+   font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+.three {
+    font-size: 24px;
+}
